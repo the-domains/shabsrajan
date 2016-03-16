@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: cultures matter when scaling health and social care innovation
-datePublished: '2016-03-16T11:43:07.684Z'
-dateModified: '2016-03-16T11:42:51.795Z'
+description: "(first published by me on\_"
+datePublished: '2016-03-16T14:00:12.598Z'
+dateModified: '2016-03-16T14:00:12.117Z'
 title: Scaling innovation across cultures
 author: []
+sourcePath: _posts/2016-03-16-scaling-innovation-across-cultures.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-scaling-innovation-across-cultures.md
-published: true
 url: scaling-innovation-across-cultures/index.html
 _type: Article
 
 ---
-(first published by me on 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c68ce12b-4496-4839-9034-ce4f12d6aed0.png)
 
 Why is it that some people have the urge to ask questions whose answers are so obvious the question is almost rhetorical? Getting on a train to Amsterdam Schipol, I asked the man opposite me if the train is really going to Schipol and luckily for me he didn't respond: "No, the sign on the platform incorrectly says 'Amsterdam Schipol' because the Dutch tourism authority like to trick people into getting on the wrong train and visiting otherwise unknown villages."No big deal, you say, there's nothing wrong in confirming. But no one else on this train did it. Writing this blog on the very same train I can't help but reflect on why i asked the stupid question. The countries where I've lived often have the wrong platform information or a delayed train sitting where it's not supposed to be and yes I have gotten on the wrong train once (okay, maybe several times under the influence). There is nothing better than having a service conductor at the door to reassure conspiracy theorist paranoid passengers like myself. In fact, train conductors or station conductors on platforms in England are often hogged but the same question: "does this train really go where it says its going? ". In our digital age, no doubt, there is an app to take care of this.This rather long drawn out intro is here to highlight the importance of culture. It may sound obvious but culture really plays an important part in the impact we create on our society. I'm in Holland this week (still part of my Europe wide whirlwind tour of entrepreneurs and investors) to hear from expert investors how to export smart health solutions to China. Startups also pitched during a Pecha Kulcha (nothing to do with sushi like I once assumed) to see if they could be the lucky ones to enter China. By 2020, 1 in 5 people will be over 65\. This is a nightmare for a country that is not prepared for this change and it's a "silver mine" (sorry for the pun) for European startups fed up with our heterogeneous system, its regulation, its bureaucracy and struggling to scale.
 
