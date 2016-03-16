@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[shabsrajan]]></title>
+        <description><![CDATA[shabsrajan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 11:27:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First rule of impact investing: Less talking, more listening…]]></title>
+            <description><![CDATA[<h1>First rule of impact investing: Less talking, more listening…</h1>]]></description>
+            <link>undefinedfirst-rule-of-impact-investing-less-talking-more-listening/index.html</link>
+            <guid isPermaLink="false">501d1827-b463-4b0c-88e6-e038b465e28e</guid>
+            <pubDate>Wed, 16 Mar 2016 11:27:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
